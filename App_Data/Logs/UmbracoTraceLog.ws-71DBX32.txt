@@ -1127,3 +1127,9 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2016-09-29 14:05:53,802 [P9432/D11/T129] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: w.nowak19@gmail.com, IP Address: ::1
  2016-09-29 14:20:40,545 [P9432/D11/T145] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username w.nowak19@gmail.com from IP address ::1
  2016-09-29 14:20:40,545 [P9432/D11/T145] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: w.nowak19@gmail.com logged in from IP address ::1
+ 2016-09-29 14:40:10,982 [P9432/D11/T54] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: w.nowak19@gmail.com, IP Address: ::1
+ 2016-09-29 14:48:22,916 [P9432/D11/T93] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username w.nowak19@gmail.com from IP address ::1
+ 2016-09-29 14:48:22,916 [P9432/D11/T93] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: w.nowak19@gmail.com logged in from IP address ::1
+ 2016-09-29 14:49:19,969 [P9432/D11/T54] INFO  Umbraco.Web.Editors.AuthenticationController - User w.nowak19@gmail.com from IP address ::1 has logged out
+ 2016-09-29 14:49:24,344 [P9432/D11/T29] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username wnowak from IP address ::1
+ 2016-09-29 14:49:24,344 [P9432/D11/T29] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: wnowak logged in from IP address ::1
